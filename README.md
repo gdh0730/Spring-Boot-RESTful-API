@@ -131,9 +131,8 @@
 ---
 
 ## 문의
-프로젝트에 대한 문의사항은 아래로 연락해 주세요:
 - Email: gdh0180@gmail.com
-- GitHub: [https://github.com/username](https://github.com/username)
+- GitHub: [https://github.com/gdh0730](https://github.com/gdh0730)
 
 ---
 
