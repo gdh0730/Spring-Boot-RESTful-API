@@ -132,10 +132,8 @@
 
 ## 문의
 프로젝트에 대한 문의사항은 아래로 연락해 주세요:
-- Email: example@example.com
+- Email: gdh0180@gmail.com
 - GitHub: [https://github.com/username](https://github.com/username)
 
 ---
-
-백엔드 개발자로서 RESTful API 설계 및 구현 역량을 어필할 수 있는 프로젝트입니다. 이 프로젝트를 통해 현대적인 백엔드 개발의 모범 사례를 배우고 실제로 적용한 경험을 보여줍니다.
 
