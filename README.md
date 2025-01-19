@@ -1,7 +1,7 @@
 # Spring Boot를 이용한 RESTful API 개발
 
 ## 소개
-이 프로젝트는 Spring Boot를 사용하여 RESTful API를 설계하고 구현한 예제입니다. RESTful API의 핵심 원칙과 Java Spring 생태계를 활용한 현대적인 백엔드 개발 기법을 학습하고 적용한 결과물입니다. 이 프로젝트는 백엔드 개발자로서의 전문성과 차별성을 보여주기 위한 포트폴리오 목적으로 작성되었습니다.
+이 프로젝트는 Spring Boot를 사용하여 RESTful API를 설계하고 구현한 예제입니다. RESTful API의 핵심 원칙과 Java Spring 생태계를 활용한 현대적인 백엔드 개발 기법을 학습하고 적용한 결과물입니다.
 
 ---
 
